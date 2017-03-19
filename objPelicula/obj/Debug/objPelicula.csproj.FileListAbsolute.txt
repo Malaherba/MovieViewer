@@ -1,0 +1,16 @@
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.csprojResolveAssemblyReference.cache
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\bin\Debug\objPelicula.dll
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\bin\Debug\objPelicula.pdb
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.Properties.Resources.resources
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.UserControl1.resources
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.csproj.GenerateResource.Cache
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.dll
+c:\users\a14luisil\documents\visual studio 2015\Projects\objPelicula\objPelicula\obj\Debug\objPelicula.pdb
+H:\objPelicula\objPelicula\bin\Debug\objPelicula.dll
+H:\objPelicula\objPelicula\bin\Debug\objPelicula.pdb
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.csprojResolveAssemblyReference.cache
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.Properties.Resources.resources
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.csproj.GenerateResource.Cache
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.dll
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.pdb
+H:\objPelicula\objPelicula\obj\Debug\objPelicula.ControlPersonalizado.resources
